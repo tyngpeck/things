@@ -1,0 +1,23 @@
+@font-face{
+    font-family:"Simplifica";
+    src:local()src: local('Simplifica'), url('SIMPLIFICA Typeface.ttf');font-style:"normal"
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+.col-md-6 portfolio item{
+    width: 50%;
+  }
+
+#bootstrap-overrides h1{
+    color:"rgb(1,66,74)";
+    font-family: "Simplifica";font-style:"normal"
+}
+#bootstrap-overrides h2{color:"rgb(#01424A)";
+    font-family: "Simplifica";font-style:"normal"
+}
+#bootstrap-overrides h3{color:"rgb(#01424A)";
+    font-family: "Simplifica";
+font-style:"normal";font-size:"large"}
+
