@@ -1,6 +1,6 @@
 a.nav-link:'link'
-{color:"red"; text-decoration:none;}
+{color:#01424A; text-decoration:none;}
 a.nav-link:'visited'
-{color:"rgb(#01424A)"; text-decoration:none}
+{color:#01424A; text-decoration:none}
 a.nav-link:'hover'
-{color:"rgb(#01424A)"; text-decoration:underline}
+{color:#01424A; text-decoration:underline}
